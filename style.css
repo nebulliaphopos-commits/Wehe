@@ -14,7 +14,7 @@ body {
   text-align: center; /*Menengahkan semua teks di dalam kartu*/
 }
 
-.kartu-profil img{
+.kartu-pelajar img{
   width: 150px;
   border-radius: 50%; /* Trik untk membuat gambar persegi menjadi lingkaran*/
 }
