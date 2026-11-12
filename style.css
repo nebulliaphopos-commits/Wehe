@@ -4,7 +4,7 @@ body {
   color: #191970: /*Warna teks utama (Biru gelap)*/
 }
 
-.kartu-pelajar {
+.profil-pelajar {
   width: 300px;
   margin: 50px auto;/*50 px jarak atas/bawah. auto menengahkan kiri kanan*/
   padding: 20px;
